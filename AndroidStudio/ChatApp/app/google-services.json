@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885045790450",
+    "firebase_url": "https://chat-app-8a589.firebaseio.com",
+    "project_id": "chat-app-8a589",
+    "storage_bucket": "chat-app-8a589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885045790450:android:3d0858e4e8c4281650f26b",
+        "android_client_info": {
+          "package_name": "com.vazheninapps.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885045790450-rhdtuu210qvongsupdifujh37tt5gfhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vazheninapps.chatapp",
+            "certificate_hash": "c7269c36a74ffe28a75d4661af4155a01fe9a760"
+          }
+        },
+        {
+          "client_id": "885045790450-6so8f9t6dp1rkfi9ohj8blrt1pubfhej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTC9S_cMeKY3UJY2gANMJgTu-9cv0TVbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885045790450-6so8f9t6dp1rkfi9ohj8blrt1pubfhej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
